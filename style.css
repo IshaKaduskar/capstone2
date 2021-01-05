@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+
+header {
+    background-color: #ccff99;
+}
+
+nav {
+    background-color: black;
+    height: 100px;
+    text-align: left;
+}
+
+.block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    justify-content: space-evenly;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#img1 {
+    width: 350px;
+    height: 350px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.div1 {
+    width: 700px;
+    font-size: 100%;
+    
+}
+
+p {
+    font-size: 1.5em;
+}
+
+h5 {
+    font-size: 1.7em;
+    background-color: black;
+}
+
+#test {
+    text-align: center;
+    font-size: 300%;
+}
+
+#div3 {
+    width: 500px;
+    font-size: 100%;
+}
+
+.list {
+    width: 600px;
+}
+
+#head-how {
+    text-align: center;
+}
+
+#more1 {
+    text-align: center;
+    font-size: 300%;
+}
+
+
+#p {
+    width: 600px;
+
+}
+
+b {
+    background-color: #ccff99;
+}
+
+.list {
+    background-color: #ccff99;
+}
+
+#bold {
+background-color: #ccff99;
+}
+
+.width {
+    width: 600px;
+}
+
+.bike {
+    width: 800px;
+}
+
+.center {
+    text-align: center;
+}
+
+.right1 {
+    margin-left: auto;   
+    width: 600px;
+}
+
+body {
+    background-color: #ccff99;
+}
+
+#button1 {
+    font-size: 350%;
+    text-align: center;
+}
+
+#yes {
+height: 200%;
+width: 200%;
+border-radius: 50%;
+}
+
+.one {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#size {
+    height: 150%;
+    width: 150%;
+}
+
+#big {
+font-size: 400%;
+}
+
+#large {
+    font-size: 300%;
+}
+
+
+
+#aboutme {
+    width: 700px;
+}
+
+#yay {
+    height: 700px;
+    width: 1500px;
+    align-items: center;
+}
